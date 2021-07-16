@@ -1,3 +1,3 @@
-### Let get started with Equo Framework - First Equo Application
+### Equo Tutorial: Your First Equo Application
 
-This Equo App was developed in order to support the Equo framework learning. Please take a look at the [blog article](https://www.equoplatform.com/blog/get-started-with-equo-framework), related to this Equo Application.
+For a full description on how to get started creating your first Equo application please take a look a this [tutorial](https://www.equoplatform.com/blog/get-started-with-equo-framework).
